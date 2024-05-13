@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  instavote:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-05-13T15:50:49.058594551Z"
+    description: A Helm chart for Kubernetes
+    digest: dbf7988fba8df6487d6fdcc49d07a4f9d9bec4dc567a37dbcc89c57bd0b67d57
+    name: instavote
+    type: application
+    urls:
+    - https://github.com/devops0003/helm-charts/instavote-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-05-13T15:50:49.057744478Z"
